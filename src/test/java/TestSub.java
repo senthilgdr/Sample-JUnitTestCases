@@ -21,7 +21,7 @@ public class TestSub {
 
 	@Test
 	public void testAddition() {
-		System.out.println("TestAddition Method is Call");
+		System.out.println("TestAddition Method Call");
 		int a=10,b=2;
 		//int c=a+b;
 		int c=ArithmeticUtil.add(a, b);
